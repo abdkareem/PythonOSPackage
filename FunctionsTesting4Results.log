@@ -1,0 +1,12 @@
+02/28/2017 10:09:58 PM - INFO **Grab the file provided by user as command line argument and show its details**
+02/28/2017 10:09:58 PM - INFO User id for file is 501
+ Group id for file is 20
+ File created on Tue Feb 28 21:36:05 2017
+ last modified on Tue Feb 28 21:36:05 2017
+ last accessed on Tue Feb 28 22:08:48 2017
+02/28/2017 10:09:58 PM - INFO 
+
+
+02/28/2017 10:09:58 PM - INFO **show current wd, create new dir recursively, change cwd and show path again**
+02/28/2017 10:09:58 PM - INFO Before creating directories, cwd is: /Users/ts/Documents/resources/pythonPractise/os/OSPackageFunctions
+02/28/2017 10:09:58 PM - INFO After creating directories and changing dir path, cwd is: /Users/ts/Documents/resources/pythonPractise/os/OSPackageFunctions/new0/new1/new2/new3

@@ -1,0 +1,144 @@
+02/28/2017 09:33:38 PM - INFO **Show path provided by user and list its contents**
+02/28/2017 09:33:38 PM - INFO The path passesd is: /Users/ts/Documents/resources/htmlPractise/
+02/28/2017 09:33:38 PM - INFO File at index 0 is .DS_Store
+02/28/2017 09:33:38 PM - INFO File at index 1 is 15590955_1116507528466214_3706275203254204445_o.jpeg
+02/28/2017 09:33:38 PM - INFO File at index 2 is Assignment1
+02/28/2017 09:33:38 PM - INFO File at index 3 is form.html
+02/28/2017 09:33:38 PM - INFO File at index 4 is forms
+02/28/2017 09:33:38 PM - INFO File at index 5 is index.html
+02/28/2017 09:33:38 PM - INFO File at index 6 is indexcss.css
+02/28/2017 09:33:38 PM - INFO File at index 7 is JavaScript Programming Home.pdf
+02/28/2017 09:33:38 PM - INFO File at index 8 is JavaScriptProgrammingHome1.pdf
+02/28/2017 09:33:38 PM - INFO File at index 9 is lab2.css
+02/28/2017 09:33:38 PM - INFO File at index 10 is lab2.html
+02/28/2017 09:33:38 PM - INFO File at index 11 is lab4.html
+02/28/2017 09:33:38 PM - INFO File at index 12 is lab5.css
+02/28/2017 09:33:38 PM - INFO File at index 13 is lab5.html
+02/28/2017 09:33:38 PM - INFO File at index 14 is lab6.css
+02/28/2017 09:33:38 PM - INFO File at index 15 is lab6.html
+02/28/2017 09:33:38 PM - INFO File at index 16 is labs
+02/28/2017 09:33:38 PM - INFO File at index 17 is labsindex.html
+02/28/2017 09:33:38 PM - INFO File at index 18 is last week
+02/28/2017 09:33:38 PM - INFO File at index 19 is Multimedia
+02/28/2017 09:33:38 PM - INFO File at index 20 is sample.txt
+02/28/2017 09:33:38 PM - INFO File at index 21 is test.html
+02/28/2017 09:33:38 PM - INFO File at index 22 is test001.html
+02/28/2017 09:33:38 PM - INFO File at index 23 is timetable.css
+02/28/2017 09:33:38 PM - INFO File at index 24 is timetable.html
+02/28/2017 09:33:38 PM - INFO File at index 25 is week 6
+02/28/2017 09:33:38 PM - INFO 
+
+
+02/28/2017 09:33:38 PM - INFO List contents of sub-directories within the path provided by user
+02/28/2017 09:33:38 PM - INFO /Users/ts/Documents/resources/htmlPractise/
+02/28/2017 09:33:38 PM - INFO Assignment1/
+02/28/2017 09:33:38 PM - INFO forms/
+02/28/2017 09:33:38 PM - INFO labs/
+02/28/2017 09:33:38 PM - INFO last week/
+02/28/2017 09:33:38 PM - INFO Multimedia/
+02/28/2017 09:33:38 PM - INFO week 6/
+02/28/2017 09:33:38 PM - INFO .DS_Store
+02/28/2017 09:33:38 PM - INFO 15590955_1116507528466214_3706275203254204445_o.jpeg
+02/28/2017 09:33:38 PM - INFO form.html
+02/28/2017 09:33:38 PM - INFO index.html
+02/28/2017 09:33:38 PM - INFO indexcss.css
+02/28/2017 09:33:38 PM - INFO JavaScript Programming Home.pdf
+02/28/2017 09:33:38 PM - INFO JavaScriptProgrammingHome1.pdf
+02/28/2017 09:33:38 PM - INFO lab2.css
+02/28/2017 09:33:38 PM - INFO lab2.html
+02/28/2017 09:33:38 PM - INFO lab4.html
+02/28/2017 09:33:38 PM - INFO lab5.css
+02/28/2017 09:33:38 PM - INFO lab5.html
+02/28/2017 09:33:38 PM - INFO lab6.css
+02/28/2017 09:33:38 PM - INFO lab6.html
+02/28/2017 09:33:38 PM - INFO labsindex.html
+02/28/2017 09:33:38 PM - INFO sample.txt
+02/28/2017 09:33:38 PM - INFO test.html
+02/28/2017 09:33:38 PM - INFO test001.html
+02/28/2017 09:33:38 PM - INFO timetable.css
+02/28/2017 09:33:38 PM - INFO timetable.html
+02/28/2017 09:33:38 PM - INFO /Users/ts/Documents/resources/htmlPractise/Assignment1
+02/28/2017 09:33:38 PM - INFO about.html
+02/28/2017 09:33:38 PM - INFO assignment1.css
+02/28/2017 09:33:38 PM - INFO contact.html
+02/28/2017 09:33:38 PM - INFO index.html
+02/28/2017 09:33:38 PM - INFO /Users/ts/Documents/resources/htmlPractise/forms
+02/28/2017 09:33:38 PM - INFO form 1.pdf
+02/28/2017 09:33:38 PM - INFO form 10 textarea.pdf
+02/28/2017 09:33:38 PM - INFO form 11 select and option.pdf
+02/28/2017 09:33:38 PM - INFO form 12 tabindex.pdf
+02/28/2017 09:33:38 PM - INFO form 13 disable.pdf
+02/28/2017 09:33:38 PM - INFO form 14 fieldset and legend .pdf
+02/28/2017 09:33:38 PM - INFO form 15 handle form.pdf
+02/28/2017 09:33:38 PM - INFO form 16 email form result.pdf
+02/28/2017 09:33:38 PM - INFO form 2.pdf
+02/28/2017 09:33:38 PM - INFO form 3.pdf
+02/28/2017 09:33:38 PM - INFO form 4.pdf
+02/28/2017 09:33:38 PM - INFO form 5.pdf
+02/28/2017 09:33:38 PM - INFO form 6.pdf
+02/28/2017 09:33:38 PM - INFO form 7 submit button.pdf
+02/28/2017 09:33:38 PM - INFO form 8 reset button.pdf
+02/28/2017 09:33:38 PM - INFO form 9 image button.pdf
+02/28/2017 09:33:38 PM - INFO form control calender 2.pdf
+02/28/2017 09:33:38 PM - INFO form control color 1.pdf
+02/28/2017 09:33:38 PM - INFO form control email 3.pdf
+02/28/2017 09:33:38 PM - INFO form control number 5.pdf
+02/28/2017 09:33:38 PM - INFO form control range 6.pdf
+02/28/2017 09:33:38 PM - INFO form control telephoone 4.pdf
+02/28/2017 09:33:38 PM - INFO form.html
+02/28/2017 09:33:38 PM - INFO /Users/ts/Documents/resources/htmlPractise/labs
+02/28/2017 09:33:38 PM - INFO assi 1 html.pdf
+02/28/2017 09:33:38 PM - INFO assi 4 html.pdf
+02/28/2017 09:33:38 PM - INFO assi 5 html.pdf
+02/28/2017 09:33:38 PM - INFO lab 13 html.pdf
+02/28/2017 09:33:38 PM - INFO lab 14 html.pdf
+02/28/2017 09:33:38 PM - INFO lab 15 html.pdf
+02/28/2017 09:33:38 PM - INFO lab 16 html.pdf
+02/28/2017 09:33:38 PM - INFO lab 17 html.pdf
+02/28/2017 09:33:38 PM - INFO lab 18 html.pdf
+02/28/2017 09:33:38 PM - INFO lab 19 html.pdf
+02/28/2017 09:33:38 PM - INFO lab 5 html.pdf
+02/28/2017 09:33:38 PM - INFO lab 6 html.pdf
+02/28/2017 09:33:38 PM - INFO /Users/ts/Documents/resources/htmlPractise/last week
+02/28/2017 09:33:38 PM - INFO CSS3 Animation 1 anim in action 3.pdf
+02/28/2017 09:33:38 PM - INFO CSS3 Animation 1 anim prop 2.pdf
+02/28/2017 09:33:38 PM - INFO CSS3 Animation 1 brow sup 4.pdf
+02/28/2017 09:33:38 PM - INFO CSS3 Animation 1 keyframs 1.pdf
+02/28/2017 09:33:38 PM - INFO css3 trans 1 brow supp 5.pdf
+02/28/2017 09:33:38 PM - INFO css3 trans 1 dely trans 3.pdf
+02/28/2017 09:33:38 PM - INFO css3 trans 1 shrthnd trans 4.pdf
+02/28/2017 09:33:38 PM - INFO css3 trans 1 timing fun 2.pdf
+02/28/2017 09:33:38 PM - INFO css3 trans 1 trans all prop 8.pdf
+02/28/2017 09:33:38 PM - INFO css3 trans 1 trans mul prop 7.pdf
+02/28/2017 09:33:38 PM - INFO css3 trans 1 trans states 6.pdf
+02/28/2017 09:33:38 PM - INFO css3 trans 1 wht css prop tobe trans 9.pdf
+02/28/2017 09:33:38 PM - INFO css3 trans 1.pdf
+02/28/2017 09:33:38 PM - INFO CSS3 Transforms  1 brow sup 4.pdf
+02/28/2017 09:33:38 PM - INFO CSS3 Transforms  1 comb transf 3.pdf
+02/28/2017 09:33:38 PM - INFO CSS3 Transforms  1 transf origin 2.pdf
+02/28/2017 09:33:38 PM - INFO CSS3 Transforms  1 transf prop 1.pdf
+02/28/2017 09:33:38 PM - INFO /Users/ts/Documents/resources/htmlPractise/Multimedia
+02/28/2017 09:33:38 PM - INFO html 5 audio elemnt 2.pdf
+02/28/2017 09:33:38 PM - INFO html 5 av 1.pdf
+02/28/2017 09:33:38 PM - INFO html 5 video element 3.pdf
+02/28/2017 09:33:38 PM - INFO mul Embedding a File with Object 6.pdf
+02/28/2017 09:33:38 PM - INFO mul javaapplet 12.pdf
+02/28/2017 09:33:38 PM - INFO mul open video using <a> 8.pdf
+02/28/2017 09:33:38 PM - INFO mul plugins 10.pdf
+02/28/2017 09:33:38 PM - INFO mul stream av 11.pdf
+02/28/2017 09:33:38 PM - INFO mul using yahoo:flash for sound 5.pdf
+02/28/2017 09:33:38 PM - INFO mul video file formats 7.pdf
+02/28/2017 09:33:38 PM - INFO mul video using object ele and ifram, youtube 9.pdf
+02/28/2017 09:33:38 PM - INFO mul.html
+02/28/2017 09:33:38 PM - INFO Multimedia Audio File Formats 1 .pdf
+02/28/2017 09:33:38 PM - INFO multimedia background sound 3.pdf
+02/28/2017 09:33:38 PM - INFO multimedia sound using <a> 2.pdf
+02/28/2017 09:33:38 PM - INFO multimedia soundfiles in object ele 4.pdf
+02/28/2017 09:33:38 PM - INFO /Users/ts/Documents/resources/htmlPractise/week 6
+02/28/2017 09:33:38 PM - INFO softlinktohtmlPractise/
+02/28/2017 09:33:38 PM - INFO box models 1 flex b.mdl 2.pdf
+02/28/2017 09:33:38 PM - INFO box models 1 trad b.mdls 1.pdf
+02/28/2017 09:33:38 PM - INFO box models 1 understand flex b.mdls 3.pdf
+02/28/2017 09:33:38 PM - INFO pseudoclasses 2 mking links printbl 3.pdf
+02/28/2017 09:33:38 PM - INFO pseudoclasses 2 other pseu ele 2.pdf
+02/28/2017 09:33:38 PM - INFO pseudoclasses 2 pseudoelements 1.pdf
